@@ -1,3 +1,3 @@
 # JavaScript
-## Jeremy McPeak 5edition
+## Jeremy McPeak 5th edition
 All project complete files
